@@ -31,5 +31,5 @@ const postNew = async (req, res) => {
   }
 };
 
-module.exports = { postNew };
+module.exports = { postNew, getMe};
 
